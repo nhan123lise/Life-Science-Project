@@ -1,5 +1,5 @@
 # Life-Science-Project
 ## How to run
 ```
-streamlit rps_app.py
+streamlit run rps_app.py
 ```
